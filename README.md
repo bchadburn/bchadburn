@@ -1,6 +1,6 @@
 ## Brennen Chadburn — Senior ML/AI Engineer
 
-Building production ML systems at the intersection of classical machine learning, large language models, and agentic AI.
+I build ML systems that go beyond model training — covering optimization (MILP, RL), physics-informed modeling, LLM integration, and the infrastructure to deploy and evaluate all of it. My work spans from solver-backed supply chain decisions to uncertainty-aware neural surrogates to retrieval systems that honestly report when LLMs don't help.
 
 **Current focus:**
 - Physics-informed and uncertainty-aware modeling for industrial systems
