@@ -20,4 +20,4 @@ Building production ML systems at the intersection of classical machine learning
 | [computer-vision](https://github.com/bchadburn/computer-vision) | ResNet-50 transfer learning for indoor/outdoor scene classification |
 | [simulate-queueing-system](https://github.com/bchadburn/simulate-queueing-system) | Monte Carlo simulation for optimal staffing under performance degradation |
 
-📫 [LinkedIn](https://www.linkedin.com/in/brennen-chadburn) · Open to senior ML/AI engineering roles
+📫 [LinkedIn](https://www.linkedin.com/in/brennenchadburn/) · Open to senior ML/AI engineering roles
